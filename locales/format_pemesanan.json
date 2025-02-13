@@ -1,0 +1,15 @@
+{
+    "title": "FORMAT PEMESANAN TIKET CGV",
+    "fields": [
+        { "label": "1. Nama", "value": "\n" },
+        { "label": "2. Judul Film", "value": "\n" },
+        { "label": "3. Tgl Nonton", "value": "HARI INI / BESOK ?\n" },
+        { "label": "4. Jam Tayang", "value": "\n" },
+        { "label": "5. Nama CGV", "value": "\n" },
+        { "label": "6. Kota CGV", "value": "\n" },
+        { "label": "7. Harga Normal", "value": "Rp.xxxxxx\n" },
+        { "label": "8. Tipe Kursi", "value": "Regular\n" },
+        { "label": "9. Nomor Kursi", "value": "Pilihan 1: \nPilihan 2: (Wajib isi Cadangan)\n" }
+    ],
+    "catatan": "Tiket yang sudah dipesan TIDAK BISA dibatalkan/reschedule."
+}

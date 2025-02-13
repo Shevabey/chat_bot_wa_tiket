@@ -1,0 +1,10 @@
+{
+    "intro": "Selamat datang",
+    "template.menu": "Ketik angka *{{number}}* : untuk *{{menu}}*",
+    "menu.caraPemesanan": "🔮 Cara Pemesanan",
+    "menu.hargaAllMovie": "🎬 Harga All Movie CGV",
+    "menu.hargaPromoFnb": "🍿 Harga Promo F&B CGV",
+    "menu.formatPemesanan": "📝 Format Pemesanan",
+    "menu.saluranTestiInfo": "📢 Saluran Testi & Info CGV",
+    "menu.caraScanTiket": "🖨️ Cara Scan Tiket di CGV"
+}

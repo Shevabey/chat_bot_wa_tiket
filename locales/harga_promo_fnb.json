@@ -1,0 +1,11 @@
+{
+    "title": "PROMO F&B CGV",
+    "items": [
+        { "nama": "1. COMBO SOLO", "harga": "64.000 jadi 35.000", "deskripsi": "1 popcorn All Varian (Salty) + 1 minuman medium \n" },
+        { "nama": "2. COMBO DUO", "harga": "120.000 jadi 60.000", "deskripsi": "1 Popcorn Medium salty + 2 Minuman\n" },
+        { "nama": "3.  DUO JUMBO", "harga": "160.000 jadi 80.000", "deskripsi": "1 Popcorn Large Size (All Varian) + 2 Minuman medium\n" },
+        { "nama": "4. COMBO DUO MINI", "harga": "140.000 jadi 55.000", "deskripsi": "2 Popcorn Small Salty + 2 Minuman Medium\n" },
+        { "nama": "5. 1 Minuman Medium", "harga": "35.000 jadi 20.000", "deskripsi": "Coca-Cola, Sprite, Fanta, Nestea\n" }
+    ],
+    "catatan": "All CGV, minimal pembelian 1 tiket di lokasi yg sama.\nDikirim berupa etiket, print di mesin self tiket lalu tunjukkan ke kasir untuk pick up pesanan."
+}
