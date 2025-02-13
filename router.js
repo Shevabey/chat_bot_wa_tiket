@@ -13,6 +13,8 @@ router.menu(f("menu.caraScanTiket"), [BotController, "caraScanTiket"]);
 router.menu(f("menu.nomorAdmin"), [BotController, "nomorAdmin"]);
 router.menu(f("menu.nomorRekening"), [BotController, "nomorRekening"]);
 router.menu(f("menu.catatanPenting"), [BotController, "catatanPenting"]);
+router.menu(f("menu.promoBerlaku"), [BotController, "promoBerlaku"]);
+
 router.keyword("*", [BotController, "introduction"]);
 
 module.exports = router;

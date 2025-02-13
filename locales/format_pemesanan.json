@@ -1,5 +1,6 @@
 {
     "title": "*🔮FORMAT PEMESANAN TIKET CGV🔮*",
+    "sub-title": "Ditulis secara DETAIL dan JELAS",
     "fields": [
         { "label": "1️⃣ Nama", "value": "" },
         { "label": "2️⃣ Judul Film", "value": "" },

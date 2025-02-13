@@ -9,6 +9,7 @@ const caraScanTiket = require("../locales/cara_scan_tiket.json");
 const nomorAdmin = require("../locales/nomor_admin.json");
 const nomorRekening = require("../locales/nomor_rekening.json");
 const catatanPenting = require("../locales/catatan_penting.json");
+const promoBerlaku = require("../locales/promo_berlaku.json");
 
 module.exports = class BotController extends Controller {
 
@@ -24,7 +25,8 @@ module.exports = class BotController extends Controller {
                 f("menu.caraScanTiket"),       // Menu 6: Cara Scan Tiket di CGV
                 f("menu.nomorAdmin"),          // Menu 7: Nomor Admin Tiket Wulan
                 f("menu.nomorRekening"),       // Menu 8: Nomor Rekening
-                f("menu.catatanPenting")       // Menu 9: Catatan Penting Sebelum Order
+                f("menu.catatanPenting"),       // Menu 9: Catatan Penting Sebelum Order
+                f("menu.promoBerlaku"),       // Menu 10: promo Berlaku dimana saja?
             ],
             `Halo kak ${request.name}, kenalin aku bot admin Wulan. Berikut layanan kami:`, // Pesan pembuka
             f("template.menu") // Template untuk menampilkan menu
@@ -74,7 +76,6 @@ module.exports = class BotController extends Controller {
     // Method untuk menangani menu "Harga Promo F&B CGV"
     async hargaPromoFnb(request) {
         let message = `${hargaPromoFnb.title}\n`; // Judul menu
-        
         hargaPromoFnb.items.forEach((item) => { // Loop melalui setiap item promo
             message += `*${item.nama}*\n`;
             message += `- Harga ${item.harga}\n`;
@@ -100,7 +101,8 @@ module.exports = class BotController extends Controller {
     // Method untuk menangani menu "Format Pemesanan"
     async formatPemesanan(request) {
         let message = `${formatPemesanan.title}\n\n`; // Judul menu
-    
+        
+        message += `_${formatPemesanan["sub-title"]}_\n`;
         // Loop melalui setiap field
         formatPemesanan.fields.forEach((field) => {
             message += `${field.label}: ${field.value}\n`;
@@ -168,9 +170,17 @@ module.exports = class BotController extends Controller {
     async catatanPenting(request) {
         let message = `${catatanPenting.title}\n\n`; // Judul menu
         catatanPenting.catatan.forEach((catatan) => { // Loop melalui setiap catatan
-            message += `- ${catatan}\n`;
+            message += `-${catatan}\n`;
         });
         message += `\nLihat gambar panduan di sini: ${catatanPenting.image}`; // Tambahkan link gambar
         return this.reply(message); // Kirim pesan ke pengguna
+    }
+
+    async promoBerlaku(request) {
+        let message = `${promoBerlaku.title}\n\n`;
+        promoBerlaku.deskripsi.forEach((deskripsi) => {
+            message += `${deskripsi}\n`;
+        });
+        return this.reply(message);
     }
 };
