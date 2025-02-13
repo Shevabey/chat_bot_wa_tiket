@@ -1,24 +1,24 @@
 {
     "title": "*🔮FORMAT PEMESANAN TIKET CGV🔮*",
     "fields": [
-        { "label": "1. Nama", "value": "" },
-        { "label": "2. Judul Film", "value": "" },
-        { "label": "3. Tgl Nonton", "value": "HARI INI / BESOK ?" },
-        { "label": "4. Jam Tayang", "value": "" },
-        { "label": "5. Nama CGV", "value": "" },
-        { "label": "6. Kota CGV", "value": "" },
-        { "label": "7. Harga Normal", "value": "Rp.xxxxxx" },
-        { "label": "8. Tipe Kursi", "value": "Regular" },
-        { "label": "9. Nomor Kursi", "value": "\n-Pilihan 1: \n-Pilihan 2: (Wajib isi Cadangan)" }
+        { "label": "1️⃣ Nama", "value": "" },
+        { "label": "2️⃣ Judul Film", "value": "" },
+        { "label": "3️⃣ Tgl Nonton", "value": "HARI INI / BESOK ?" },
+        { "label": "4️⃣ Jam Tayang", "value": "" },
+        { "label": "5️⃣ Nama CGV", "value": "" },
+        { "label": "6️⃣ Kota CGV", "value": "" },
+        { "label": "7️⃣ Harga Normal", "value": "Rp.xxxxxx" },
+        { "label": "8️⃣ Tipe Kursi", "value": "Regular" },
+        { "label": "9️⃣ Nomor Kursi", "value": "\n-Pilihan 1: \n-Pilihan 2: (Wajib isi Cadangan)" }
     ],
     "tambahanPaket": [
-        "- Combo Solo 35k",
-        "- Combo Duo 60k",
-        "- Combo Duo Mini 55k",
-        "- Combo Duo Jumbo 80k",
-        "- Small Salty 10k",
-        "- Minum Medium 20k",
-        "- 1 Popcorn Large + 1 Minum M 60k"
+        " Combo Solo 35k",
+        " Combo Duo 60k",
+        " Combo Duo Mini 55k",
+        " Combo Duo Jumbo 80k",
+        " Small Salty 10k",
+        " Minum Medium 20k",
+        " 1 Popcorn Large + 1 Minum M 60k"
     ],
     "jadwalLink": "*https://m.cgv.id/*",
     "kursiInfo": [

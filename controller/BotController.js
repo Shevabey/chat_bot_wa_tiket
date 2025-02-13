@@ -66,7 +66,6 @@ module.exports = class BotController extends Controller {
         message += `Catatan :\n`;
         message += hargaAllMovie.catatan.join("\n") + "\n\n";
     
-        message += `Lihat gambar promo di sini: ${hargaAllMovie.image}`; // Tambahkan link gambar
     
         return this.reply(message);
     }
