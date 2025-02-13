@@ -1,11 +1,54 @@
 {
-    "title": "PROMO F&B CGV",
+    "title": "🔮READY🔮\nPROMO FnB CGV\n",
     "items": [
-        { "nama": "1. COMBO SOLO", "harga": "64.000 jadi 35.000", "deskripsi": "1 popcorn All Varian (Salty) + 1 minuman medium \n" },
-        { "nama": "2. COMBO DUO", "harga": "120.000 jadi 60.000", "deskripsi": "1 Popcorn Medium salty + 2 Minuman\n" },
-        { "nama": "3.  DUO JUMBO", "harga": "160.000 jadi 80.000", "deskripsi": "1 Popcorn Large Size (All Varian) + 2 Minuman medium\n" },
-        { "nama": "4. COMBO DUO MINI", "harga": "140.000 jadi 55.000", "deskripsi": "2 Popcorn Small Salty + 2 Minuman Medium\n" },
-        { "nama": "5. 1 Minuman Medium", "harga": "35.000 jadi 20.000", "deskripsi": "Coca-Cola, Sprite, Fanta, Nestea\n" }
+        {
+            "nama": "1. COMBO SOLO",
+            "harga": "[ 64K ] jadi 35.000 ✅",
+            "deskripsi": [
+                "- 1 popcorn All Varian ( Salty) 35K",
+                "- Upgrade ke Popcorn Choco / Caramel 40K",
+                "- 1 minuman medium (Nestea, S Milo dan Sjora, Mizone, Pulpy orange, Mineral Water)"
+            ]
+        },
+        {
+            "nama": "2. COMBO DUO",
+            "harga": "[ 120K ] Jadi 60.000 ✅",
+            "deskripsi": [
+                "- 1 Popcorn Medium salty (Asin)",
+                "- 2 Minuman (Nestea, Milo dan Sjora, Mizone, Pulpy orange, Mineral Water)"
+            ]
+        },
+        {
+            "nama": "3. COMBO DUO JUMBO",
+            "harga": "[ 160K ] Jadi 80.000 ✅",
+            "deskripsi": [
+                "- 1 Popcorn Large Size ( All Varian )",
+                "- 2 Minuman medium (Coca-Cola ,Sprite, Fanta, Nestea)"
+            ]
+        },
+        {
+            "nama": "4. COMBO DUO MINI",
+            "harga": "[ 140K ] Jadi 55.000 ✅",
+            "deskripsi": [
+                "- 2 Popcorn Small Salty",
+                "- 2 Minuman Medium ( Coca-Cola, Sprite, Fanta, Nestea, Milo uk M)"
+            ]
+        },
+        {
+            "nama": "5. 1 Minuman Medium",
+            "harga": "(Coca-Cola, Sprite, Fanta, Nestea) (35K) jadi 20.000 ✅",
+            "deskripsi": []
+        },
+        {
+            "nama": "6. 1 Minuman Medium Nestea / Milo + 1 Popcorn Large",
+            "harga": "[ 120K ] jadi 60.000",
+            "deskripsi": []
+        }
     ],
-    "catatan": "All CGV, minimal pembelian 1 tiket di lokasi yg sama.\nDikirim berupa etiket, print di mesin self tiket lalu tunjukkan ke kasir untuk pick up pesanan."
+    "catatan": [
+        "Note:",
+        "- All CGV, minimal pembelian 1 tiket di lokasi yg sama",
+        "- Dikirim berupa etiket, print di mesin self tiket lalu tunjukkan ke kasir untuk pick up pesanan"
+    ],
+    "image": "https://res.cloudinary.com/dgvagy10u/image/upload/v1739413572/promo_fnb_tiket_mpwiie.jpg"
 }

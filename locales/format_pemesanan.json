@@ -1,15 +1,34 @@
 {
-    "title": "FORMAT PEMESANAN TIKET CGV",
+    "title": "*🔮FORMAT PEMESANAN TIKET CGV🔮*",
     "fields": [
-        { "label": "1. Nama", "value": "\n" },
-        { "label": "2. Judul Film", "value": "\n" },
-        { "label": "3. Tgl Nonton", "value": "HARI INI / BESOK ?\n" },
-        { "label": "4. Jam Tayang", "value": "\n" },
-        { "label": "5. Nama CGV", "value": "\n" },
-        { "label": "6. Kota CGV", "value": "\n" },
-        { "label": "7. Harga Normal", "value": "Rp.xxxxxx\n" },
-        { "label": "8. Tipe Kursi", "value": "Regular\n" },
-        { "label": "9. Nomor Kursi", "value": "Pilihan 1: \nPilihan 2: (Wajib isi Cadangan)\n" }
+        { "label": "1. Nama", "value": "" },
+        { "label": "2. Judul Film", "value": "" },
+        { "label": "3. Tgl Nonton", "value": "HARI INI / BESOK ?" },
+        { "label": "4. Jam Tayang", "value": "" },
+        { "label": "5. Nama CGV", "value": "" },
+        { "label": "6. Kota CGV", "value": "" },
+        { "label": "7. Harga Normal", "value": "Rp.xxxxxx" },
+        { "label": "8. Tipe Kursi", "value": "Regular" },
+        { "label": "9. Nomor Kursi", "value": "\n-Pilihan 1: \n-Pilihan 2: (Wajib isi Cadangan)" }
     ],
-    "catatan": "Tiket yang sudah dipesan TIDAK BISA dibatalkan/reschedule."
+    "tambahanPaket": [
+        "- Combo Solo 35k",
+        "- Combo Duo 60k",
+        "- Combo Duo Mini 55k",
+        "- Combo Duo Jumbo 80k",
+        "- Small Salty 10k",
+        "- Minum Medium 20k",
+        "- 1 Popcorn Large + 1 Minum M 60k"
+    ],
+    "jadwalLink": "*https://m.cgv.id/*",
+    "kursiInfo": [
+        "[ Kursi Reguler : Kuning ]✅",
+        "[ Kursi Sweetbox : Pink ]❌"
+    ],
+    "pembayaran": {
+        "bank": "SEABANK",
+        "nomor": "901736902024",
+        "atas_nama": "Laela Tri Wulandari"
+    },
+    "catatan": "Tiket yang sudah dipesan *TIDAK BISA* dibatalkan/reschedule."
 }

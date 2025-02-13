@@ -1,26 +1,37 @@
 {
-    "title": "PROMO BELI 1 GRATIS 1 [ALLMOVIE]",
-    "description": "Film: SEMUA FILM YG TAYANG DI CGV\nPromo untuk seluruh CGV\nHanya audi reguler 2D & seat reguler\nGaransi 100% jika ada trouble\nTiket/barcode jamin legal 100%",
-    "periodePromo": "Wajib Pre Order H-1",
-    "tanggalNonton": "EVERYDAY",
-    "harga": [
-        { "normal": "25.000/orang", "promo": "35.000/2orang\n" },
-        { "normal": "27.000/orang", "promo": "38.300/2orang\n" },
-        { "normal": "28.000/orang", "promo": "39.200/2orang\n" },
-        { "normal": "30.000/orang", "promo": "42.000/2orang\n" },
-        { "normal": "32.000/orang", "promo": "45.500/2orang\n" },
-        { "normal": "35.000/orang", "promo": "51.000/2orang\n" },
-        { "normal": "36.000/orang", "promo": "52.000/2orang\n" },
-        { "normal": "37.000/orang", "promo": "53.000/2orang\n" },
-        { "normal": "38.000/orang", "promo": "54.000/2orang\n" },
-        { "normal": "40.000/orang", "promo": "56.000/2orang\n" },
-        { "normal": "42.000/orang", "promo": "58.800/2orang\n" },
-        { "normal": "43.000/orang", "promo": "60.200/2orang\n" },
-        { "normal": "45.000/orang", "promo": "63.000/2orang\n" },
-        { "normal": "47.000/orang", "promo": "68.000/2orang\n" },
-        { "normal": "48.000/orang", "promo": "69.000/2orang\n" },
-        { "normal": "50.000/orang", "promo": "70.000/2orang\n" },
-        { "normal": "55.000/orang", "promo": "80.000/2orang\n" }
+    "image": "https://res.cloudinary.com/dgvagy10u/image/upload/v1739413572/harga_all_movie_u6jg1s.jpg",
+    "title": "*BELI 1 GRATIS 1 [ALLMOVIE]*",
+    "description": "*Film: SEMUA FILM YG TAYANG DI CGV*\n\n➡Promo untuk seluruh CGV\n➡Hanya audi reguler 2D & seat reguler\n➡Garansi 100% jika ada trouble\n➡Tiket/barcode jamin legal 100%",
+    "periodePromo": "\nWajib Pre Order H-1",
+    "tanggalNonton": "\nEVERYDAY",
+    "benefits": [
+        "➡ Bebas pilih kursi dan jam tayang",
+        "➡ Promo untuk seluruh CGV",
+        "➡ Hanya audi reguler 2D & seat reguler",
+        "➡ Garansi 100% jika ada trouble",
+        "➡ Tiket/barcode jamin legal 100%"
     ],
-    "catatan": "Pesanan yg sdh dipesan JELAS tdk bisa dibatalkan ataupun refund❌\nTidak berlaku untuk EVENT ❌"
+    "harga": [
+        { "normal": "25.000/orang", "promo": "35.000/2orang" },
+        { "normal": "27.000/orang", "promo": "38.300/2orang" },
+        { "normal": "28.000/orang", "promo": "39.200/2orang" },
+        { "normal": "30.000/orang", "promo": "42.000/2orang" },
+        { "normal": "32.000/orang", "promo": "45.500/2orang" },
+        { "normal": "35.000/orang", "promo": "51.000/2orang" },
+        { "normal": "36.000/orang", "promo": "52.000/2orang" },
+        { "normal": "37.000/orang", "promo": "53.000/2orang" },
+        { "normal": "38.000/orang", "promo": "54.000/2orang" },
+        { "normal": "40.000/orang", "promo": "56.000/2orang" },
+        { "normal": "42.000/orang", "promo": "58.800/2orang" },
+        { "normal": "43.000/orang", "promo": "60.200/2orang" },
+        { "normal": "45.000/orang", "promo": "63.000/2orang" },
+        { "normal": "47.000/orang", "promo": "68.000/2orang" },
+        { "normal": "48.000/orang", "promo": "69.000/2orang" },
+        { "normal": "50.000/orang", "promo": "70.000/2orang" },
+        { "normal": "55.000/orang", "promo": "80.000/2orang" }
+    ],
+    "catatan": [
+        "- Pesanan yg sdh dipesan *JELAS* tdk bisa dibatalkan ataupun refund❌",
+        "- Tidak berlaku untuk *EVENT* ❌"
+    ]
 }

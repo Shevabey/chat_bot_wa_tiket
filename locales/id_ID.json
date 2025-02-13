@@ -6,5 +6,8 @@
     "menu.hargaPromoFnb": "🍿 Harga Promo F&B CGV",
     "menu.formatPemesanan": "📝 Format Pemesanan",
     "menu.saluranTestiInfo": "📢 Saluran Testi & Info CGV",
-    "menu.caraScanTiket": "🖨️ Cara Scan Tiket di CGV"
+    "menu.caraScanTiket": "🖨️ Cara Scan Tiket di CGV",
+    "menu.nomorAdmin": "📞 Nomor Admin Tiket Wulan",
+    "menu.nomorRekening": "💳 Nomor Rekening",
+    "menu.catatanPenting": "📌 Catatan Penting Sebelum Order"
 }
